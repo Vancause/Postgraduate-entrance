@@ -34,5 +34,5 @@
 
 ## 经验贴:
 - [王道论坛](http://cskaoyan.com/thread-659550-1-1.html)
-- [知乎版本](https://www.zhihu.com/people/vancause/posts)
+- [知乎版本](https://zhuanlan.zhihu.com/p/143209335)
 如果大家有相关问题可以在知乎里留言或者私信我，我会尽可能的给大家解答。
